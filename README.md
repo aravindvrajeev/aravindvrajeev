@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Aravind
 
-<!--
-**aravindvrajeev/aravindvrajeev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am transitioning into data analysis with a background in Information Technology and urban analytics.
 
-Here are some ideas to get you started:
+I have experience working at the intersection of data and policy at the National Institute of Urban Affairs. I worked with large urban datasets, including built-up density and Degree of Urbanization data, using GIS tools to identify patterns in urban growth and support research and policy insights. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills
+
+- Python 
+- SQL 
+- Exploratory Data Analysis
+- Excel
+- GIS (QGIS / ArcGIS)
+
+---
+
+## 📊 Projects
+
+### 1. SAT Analysis
+- Analyzed relationship between participation rates and SAT performance across NYC schools
+- Explored borough-level differences and potential selection bias  
+👉 [View Project](your-link-here)
+
+---
+
+### 2. Netflix Data Analysis (In Progress)
+- Exploring genre trends across decades and countries
+- Analyzing content strategy of the top producing countries
+
+---
+
+## 🌱 Currently Learning
+
+- SQL (joins, aggregations, window functions)
+- Data visualization
+- Building end-to-end data projects
+
+---
+
+## 🔗 Connect with me
+
+- LinkedIn: [https://www.linkedin.com/in/aravindvrajeev/]
