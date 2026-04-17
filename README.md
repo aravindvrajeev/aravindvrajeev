@@ -1,12 +1,12 @@
-# Hi, I'm Aravind
+  # Hi, I'm Aravind
 
-I am transitioning into data analysis with a background in Information Technology and urban analytics.
+I am transitioning into data analysis with a background in information technology and urban analytics.
 
-I have experience working at the intersection of data and policy at the National Institute of Urban Affairs. I worked with large urban datasets, including built-up density and Degree of Urbanization data, using GIS tools to identify patterns in urban growth and support research and policy insights. 
+I have experience working at the intersection of data and policy at the National Institute of Urban Affairs, where I analysed large urban and spatial datasets to support research and policy insights.
 
 ---
 
-## 🔧 Skills
+## Skills
 
 - Python 
 - SQL 
@@ -16,29 +16,28 @@ I have experience working at the intersection of data and policy at the National
 
 ---
 
-## 📊 Projects
+## Projects
 
 ### 1. SAT Analysis
-- Analyzed relationship between participation rates and SAT performance across NYC schools
-- Explored borough-level differences and potential selection bias  
-👉 [View Project](your-link-here)
+- Found that higher participation rates lead to higher average test scores among schools in NYC
+- Borough level differences were identified, which suggest structural factors that affect school-level scores
+  [View Project](your-link-here)
 
 ---
 
-### 2. Netflix Data Analysis (In Progress)
-- Exploring genre trends across decades and countries
-- Analyzing content strategy of the top producing countries
-
+### 2. Netflix Content Analysis
+- Investigated how Netflix's 2016–2020 content acquisition spike reshaped catalog composition across genres, countries, and content format
+- Before the spike Netflix's catalog contained movies concentrated in 'children', 'documentaries' and 'stand-up' genre
+  [View Project](your-link-here)
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - SQL (joins, aggregations, window functions)
-- Data visualization
 - Building end-to-end data projects
 
 ---
 
-## 🔗 Connect with me
+## Connect with me
 
-- LinkedIn: [https://www.linkedin.com/in/aravindvrajeev/]
+- [LinkedIn](https://www.linkedin.com/in/aravindvrajeev/)
