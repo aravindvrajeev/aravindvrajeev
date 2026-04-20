@@ -21,14 +21,17 @@ I have experience working at the intersection of data and policy at the National
 ### 1. SAT Analysis
 - Found that higher participation rates lead to higher average test scores among schools in NYC
 - Borough level differences were identified, which suggest structural factors that affect school-level scores
-  [View Project](your-link-here)
+  
+  [View Project](https://github.com/aravindvrajeev/SAT_Analysis)
 
 ---
 
 ### 2. Netflix Content Analysis
 - Investigated how Netflix's 2016–2020 content acquisition spike reshaped catalog composition across genres, countries, and content format
 - Before the spike Netflix's catalog contained movies concentrated in 'children', 'documentaries' and 'stand-up' genre
-  [View Project](your-link-here)
+
+  [View Project](https://github.com/aravindvrajeev/netflix_content_analysis)
+  
 ---
 
 ## Currently Learning
