@@ -28,7 +28,7 @@ I have experience working at the intersection of data and policy at the National
 
 ### 2. Netflix Content Analysis
 - Investigated how Netflix's 2016–2020 content acquisition spike reshaped catalog composition across genres, countries, and content format
-- Before the spike Netflix's catalog contained movies concentrated in 'children', 'documentaries' and 'stand-up' genre
+- Netflix's pre-spike catalog was unexpectedly concentrated in the Children, Documentaries, and Stand-Up genres, and the 2010s acquisition spike pulled the catalog toward a core-genre-dominant (Action, Drama, Comedy ) profile overall
 
   [View Project](https://github.com/aravindvrajeev/netflix_content_analysis)
   
