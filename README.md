@@ -36,9 +36,10 @@ I have experience working at the intersection of data and policy at the National
 
 ### 3. Superstore Profitability Analysis
 - Investigating where the store is generating revenue without generating profit, what is driving that disconnect, and whether the pattern holds across customer segments and shipping methods
-- Several top-selling sub-categories — Tables, Bookcases, and Machines — carry negative or thin profit margins across customer segments and shipping modes.       - Discounting is the primary driver of margin erosion.
+- Several top-selling sub-categories — Tables, Bookcases, and Machines — carry negative or thin profit margins across customer segments and shipping modes
+- Discounting is the primary driver of margin erosion
 
-  [View Project]([https://github.com/aravindvrajeev/netflix_content_analysis](https://github.com/aravindvrajeev/superstore_profitability_analysis))
+  [View Project](https://github.com/aravindvrajeev/superstore_profitability_analysis)
 
 ---
 
