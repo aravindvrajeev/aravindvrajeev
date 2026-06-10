@@ -43,12 +43,7 @@ I have experience working at the intersection of data and policy at the National
 
 ---
 
-## Currently Learning
 
-- SQL (joins, aggregations, window functions)
-- Building end-to-end data projects
-
----
 
 ## Connect with me
 
